@@ -11,8 +11,16 @@ body { background-color: #ffbeb8; }
 .links {
 	color: #23ff;
 	text-decoration: none;
+	display: block;
 }
 
 .menu {
 	background-color: #3bfffb;
+}
+
+.elements {
+	margin-left: 50px;}
+
+.list {
+	display: flex;
 }
