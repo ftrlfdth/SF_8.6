@@ -1,0 +1,18 @@
+body { background-color: #ffbeb8; }
+
+.knowledge { background-color: #ffd7; padding: 10px; }
+
+.text { font-family: 'URW Chancery L'; }
+
+.header { 
+	color: #fff900; 
+}
+
+.links {
+	color: #23ff;
+	text-decoration: none;
+}
+
+.menu {
+	background-color: #3bfffb;
+}
